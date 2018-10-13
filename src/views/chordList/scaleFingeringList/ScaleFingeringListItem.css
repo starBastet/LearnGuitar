@@ -1,0 +1,39 @@
+.scaleFingeringListItemContainer
+{
+	position:relative;
+	margin:0 auto;
+	display:inline-block;
+	margin-left:7px;
+	margin-right:7px;
+	width:auto;
+	height:auto;
+}
+
+.scaleFingeringListItem
+{
+	position:relative;
+	margin:0 auto;
+	padding-top:6px;
+	width:27px;
+	height:21px;
+	text-align:center;
+	color:#fff;
+	font-size:1em;
+	background-color:#ccc;
+	transform:rotate(45deg);
+}
+
+.scaleFingeringListItem.active
+{
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	padding-top:2px;
+	height:27px;
+	border:4px solid #999;
+}
+
+.counterClockwise
+{
+	transform:rotate(-45deg);
+}

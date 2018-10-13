@@ -1,0 +1,11 @@
+.chordDiagramFingerManagerContainer
+{
+	position:relative;
+	margin:0 auto;
+	margin-left:28px; /* 15% */
+	margin-top:2px;
+	width:auto;
+	height:40px;
+	opacity:1;
+	transition:all 200ms;
+}

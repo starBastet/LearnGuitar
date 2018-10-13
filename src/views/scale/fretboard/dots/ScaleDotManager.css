@@ -1,0 +1,12 @@
+.scaleDotManagerContainer
+{
+	position:absolute;
+	margin:0 auto;
+	padding-top:1px;
+	left:0;
+	top:0;
+	width:auto;
+	height:auto;
+	transition:all 200ms;
+	opacity:1;
+}

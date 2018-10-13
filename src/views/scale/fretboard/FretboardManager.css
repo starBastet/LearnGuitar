@@ -1,0 +1,32 @@
+.fretboardManagerContainer
+{
+	position:relative;
+	margin:0 auto;
+	margin-top:30px;
+	margin-bottom:20px;
+	width:251px;
+	height:152px;
+	border-left:2px solid #999;
+	border-right:2px solid #999;
+}
+
+.scaleFret
+{
+	position:relative;
+	display:inline-block;
+	margin:0 auto;
+	margin-left:49px;
+	width:2px;
+	height:150px;
+	background:#999;
+}
+
+.scaleString
+{
+	position:absolute;
+	margin:0 auto;
+	top:0;
+	width:251px;
+	height:2px;
+	background:#999;
+}

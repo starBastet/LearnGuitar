@@ -1,0 +1,13 @@
+.chordDotManagerContainer
+{
+	position:absolute;
+	margin:0 auto;
+	padding-top:1px;
+	padding-left:27px; /* 15.7% */
+	left:0;
+	top:0;
+	width:auto;
+	height:auto;
+	transition:all 200ms;
+	opacity:1;
+}

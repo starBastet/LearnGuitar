@@ -1,0 +1,37 @@
+.chordListItemContainer
+{
+	position:relative;
+	margin:0 auto;
+	margin-left:2px;
+	margin-right:2px;
+	display:inline-block;
+	width:auto;
+	height:auto;
+}
+
+.chordListItem
+{
+	position:relative;
+	margin:0 auto;
+	padding-top:6px;
+	padding-right:1px;
+	width:39px;
+	height:34px;
+	color:#fff;
+	font-size:1.7em;
+	text-align:center;
+	border-radius:50%;
+	background-color:#ccc;
+}
+
+.chordListItem.active
+{
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	padding-top:3px;
+	padding-right:1px;
+	width:40px;
+	height:41px;
+	border:4px solid #999;
+}

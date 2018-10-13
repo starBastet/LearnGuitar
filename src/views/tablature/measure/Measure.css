@@ -1,0 +1,41 @@
+.measureContainer
+{
+	position:relative;
+	margin:0 auto;
+	margin-bottom:20px;
+	display:inline-block;
+	float:left; /* DELETE TO CENTER ON PAGE */
+	width:auto;
+	height:auto;
+}
+
+.measureBox
+{
+	position:relative;
+	margin:0 auto;
+	width:0;
+	height:auto;
+	border-left:1px solid #999;
+	border-right:1px solid #999;
+}
+
+.tabString
+{
+	position:relative;
+	margin:0 auto;
+	margin-bottom:0;
+	width:0;
+	height:1px;
+	background:#999;
+}
+
+.tabNum
+{
+	position:absolute;
+	margin:0 auto;
+	left:0;
+	top:0;
+	width:auto;
+	height:auto;
+	color:#333;
+}

@@ -1,0 +1,22 @@
+.chordDiagramFingerItemContainer
+{
+	position:absolute;
+	margin:0 auto;
+	left:0;
+	top:0;
+	display:inline-block;
+	width:auto;
+	height:auto;
+	font-size:1.3em;
+}
+
+.chordDiagramFingerItem
+{
+	position:absolute;
+	margin:0 auto;
+	padding-top:6px;
+	width:12px;
+	height:auto;
+	color:#999;
+	text-align:center;
+}

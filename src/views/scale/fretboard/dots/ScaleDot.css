@@ -1,0 +1,19 @@
+.scaleDotContainer
+{
+	position:absolute;
+	margin:0 auto;
+	width:auto;
+	height:auto;
+}
+
+.scaleDot
+{
+	position:absolute;
+	margin:0 auto;
+	left:0;
+	top:0;
+	width:20px;
+	height:20px;
+	border-radius:50%;
+	background-color:#990000;
+}

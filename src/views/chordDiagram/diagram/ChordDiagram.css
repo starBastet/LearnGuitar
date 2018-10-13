@@ -1,0 +1,15 @@
+.chordDiagramContainer
+{
+	position:relative;
+	display:block;
+	margin:0 auto;
+	margin-top:0;
+	margin-bottom:20px;
+	padding-right:10px;
+	width:auto; /*180px*/
+	height:auto;
+	vertical-align:top;
+	opacity:0;
+	transition:all 200ms;
+	/*border:solid 1px #990000;*/
+}

@@ -1,0 +1,14 @@
+.chordDiagramChordLabelContainer
+{
+	position:relative;
+	margin:0 auto;
+	margin-top:20px;
+	margin-bottom:10px;
+	padding-left:27px; /* 15% */
+	width:auto;
+	height:auto;
+	font-size:1.3em;
+	text-align:center;
+	opacity:1;
+	transition:all 200ms;
+}
