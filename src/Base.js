@@ -54,23 +54,6 @@ class Base extends Component
 	
 	compileJsx()
 	{
-		
-		/*
-					<ChordDiagramManager
-					chordsA={this.state.jDataA.CHORDS_A}
-					chordTypesA={this.state.jDataA.CHORD_TYPES_A}
-					/>
-					
-					<div style={{width:'100%',textAlign:'center',marginTop:'30px'}}>
-					<ChordDiagram
-						cellSide={20}
-						chordDataA={this.state.jDataA.CHORDS_A[2].MARKERS.MAJOR}
-						chordLabel={this.state.jDataA.CHORDS_A[2].NAME+' '+this.state.jDataA.CHORD_TYPES_A[0].toLowerCase()}
-						float={'left'}
-					/>
-		*/
-		
-		
 		var jsx = <div>
 					<Header
 						
